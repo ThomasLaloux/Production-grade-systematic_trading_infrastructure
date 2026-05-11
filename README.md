@@ -13,7 +13,7 @@ Core infrastructure for a systematic trading/investing system (on-going developm
 - **Reporting**: Metrics calculation, chart generation (equity/balance curves, drawdown), CSV export
 
 ## Provided Code
-The code publicly shared in this project only concerns rather standard sections core, data, brokers, reporting; 
+The code publicly shared in this project concern the standard sections core, data, brokers and reporting; 
 other sections are currently private, as some of them encapsulate financial edge in the underlying methodology.
 
 ## Project Structure
