@@ -12,6 +12,10 @@ Core infrastructure for a systematic trading/investing system (on-going developm
 - **Charting**: Static (equity curve, max drawdown, performance metrics), dynamic (signals visualization)
 - **Reporting**: Metrics calculation, chart generation (equity/balance curves, drawdown), CSV export
 
+## Provided Code
+The code publicly shared in this project only concerns rather standard sections core, data, brokers, reporting; 
+other sections are currently private, as some of them encapsulate financial edge in the underlying methodology.
+
 ## Project Structure
 ```
 trading_system/
@@ -142,4 +146,4 @@ Each module has its own configurator and YAML file:
 **Approach B (Production)**: Parameters loaded from YAML file - auditable, version-controlled
 
 ## License
-Proprietary - Internal Use Only - Open to Opportunities
+Proprietary - Internal Use Only
